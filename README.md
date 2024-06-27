@@ -1,7 +1,7 @@
 **Facebook api Application**
 This is a simple Facebook api application built using Express.js and Sequelize with a MySQL database. The application allows users to manage users, posts, and comments with basic CRUD operations.
 
-[https://facebook-api-turki.onrender.com/]
+https://facebook-api-turki.onrender.com/
 
 **Features:**
     User registration and login (simple approach without authentication).
