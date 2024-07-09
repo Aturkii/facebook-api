@@ -16,5 +16,3 @@ https://facebook-api-turki.onrender.com/
     MySQL: Relational database.
     Sequelize: ORM for Node.js.
     bcrypt.js: Library to hash passwords.
-
-and here is the postman documentation for this application //   https://www.postman.com/aturkii/workspace/my-workspace/documentation/33089388-fc678bc5-b8d1-430e-b6d7-87d3ec1be5bc
